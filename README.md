@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-You can find most of my work [here](https://github.com/Games-by-Mason/).
+You can find my libraries and other links [here](https://github.com/Games-by-Mason/).
